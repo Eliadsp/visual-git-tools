@@ -1,0 +1,7 @@
+Commit 1: Document checkout return value
+Files: checkout.py
+
+Commit 2: Describe visual Git lab purpose
+Files: README.md
+
+The commits are separate because the checkout.py comment and the README documentation change have different purposes. Separating them makes each change easier to review, explain, or undo without affecting the other.
