@@ -1,0 +1,17 @@
+Before merge:
+Current branch: main
+Source branch: visual-tools
+Git action: Merge into current branch
+Git concept: main was the target branch receiving the visual-tools commits.
+
+After merge:
+The visual-tools commits appear in main history.
+Git action: Push origin
+Git concept: publish local main commits to the remote repository.
+
+Remote update:
+Git action: Fetch origin, then Pull origin
+Git concept: download and integrate the README.md commit made directly on GitHub into local main.
+
+Final state:
+main contains the feature work and the remote README change. The working tree is clean.
