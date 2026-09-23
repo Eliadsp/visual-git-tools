@@ -1,0 +1,11 @@
+Conflicting lines:
+Main review note.
+Feature review note.
+
+Final resolved README content:
+Main review note.
+Feature review note.
+
+Merge commit message: Resolve README review note conflict
+
+The conflict occurred because main and visual-tools added different text in the same README location. I resolved it by retaining both intended lines, completed the merge commit, pushed main, and confirmed that the working tree is clean.
