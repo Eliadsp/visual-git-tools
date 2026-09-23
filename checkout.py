@@ -1,7 +1,7 @@
 def checkout(prices):
     """Return the total cost of the supplied prices."""
     total = sum(prices)
-    return total
+    return total + 1
 
 
 if __name__ == "__main__":
