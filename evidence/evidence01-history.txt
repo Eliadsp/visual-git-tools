@@ -1,0 +1,6 @@
+Repository URL: https://github.com/Eliadsp/visual-git-tools
+Branches: main, visual-tools
+Feature commit 1: Add checkout calculation
+Feature commit 2: Clarify checkout calculation documentation
+
+The initial README commit is shared by main and visual-tools because visual-tools was created from main. The two checkout.py commits are unique to visual-tools. HEAD is on visual-tools because it is the currently selected branch. The visual-tools label points to the newest feature commit.

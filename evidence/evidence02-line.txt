@@ -1,0 +1,6 @@
+Line investigated: return total
+Commit ID: 0acd306a03f287c3c3763ec3b5fb475830c57a0b
+Author and date: Eliadsp 9/22/26
+Commit message: Correct checkout total calculation
+
+The selected commit last changed the current return total line. Its diff replaced return total + 1 with return total. Adding 1 caused the result to be too high, so this correction plausibly explains why the calculation now returns the expected total.
